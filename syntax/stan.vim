@@ -196,6 +196,8 @@ endif
 
 let b:current_syntax="stan"
 
+set expandtab shiftwidth=4 softtabstop=4
+
 " vim: ts=8 sw=2
 " If more fancy colors (or modes) are needed, see sas.vim 
 " for examples. 
